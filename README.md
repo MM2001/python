@@ -20,7 +20,7 @@ http://flypython.com
 ## Python Books
 
 #### Beginner
-- 《Python Crash Course: A Hands-On, Project-Based Introduction to Programming for begainners》
+- 《Python Crash Course: A Hands-On, Project-Based Introduction to Programming for beginners》
    - ※※※※※
    - [Amazon](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
    
@@ -53,7 +53,7 @@ http://flypython.com
 ## Course
 
 
-#### Beginer
+#### Beginner
  - [Python for Everybody](https://www.coursera.org/specializations/python)
  - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
 
@@ -108,7 +108,7 @@ B) Algorithmic Trading: [Python for Financial Analysis and Algorithmic Trading: 
 <br>
 
 ### Guide
-* [wtfPython: A collection of interesting, subtle, and tricky Python snippets](https://github.com/satwikkansal/wtfPython?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [wtfPython: A collection of interesting, subtle and tricky Python snippets](https://github.com/satwikkansal/wtfPython?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
 
